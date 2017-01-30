@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -8,11 +9,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: undefined;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: undefined;
 }
 .btn,
 .alert,
@@ -417,6 +418,9 @@ h6,
 #msg-box5-n P {
   color: #000000;
 }
+#features6-18 H4 {
+  font-family: 'Open Sans', sans-serif;
+}
 #content7-7 P {
   color: #232323;
 }
@@ -439,6 +443,7 @@ h6,
 #ext_menu-0 .link,
 #ext_menu-0 .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-0 .link {
   font-size: 0.9rem;
@@ -484,6 +489,7 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #ext_menu-i .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -500,6 +506,7 @@ h6,
 #ext_menu-i .link,
 #ext_menu-i .dropdown-item {
   color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
 }
 #ext_menu-i .link {
   font-size: 0.9rem;

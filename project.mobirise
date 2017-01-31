@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 49,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@"
   },
@@ -41,18 +41,10 @@
             "Theme"
           ],
           "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "msg-box5-n",
+          "_anchor": "msg-box5-19",
           "_params": {
             "imageSize": 50,
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
@@ -75,7 +67,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1-1400x933.jpg",
+              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/gallery/desktop.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -93,9 +85,18 @@
               "size": 0
             }
           },
-          "title": "David Lugo",
-          "text": "Solid color intro with an image on the right side. Also this block has no paddings.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content7-7\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
+          "title": "Biography",
+          "text": "My name is David Lugo and I'm a 14 year old boy who lives in Miami, Florida. I love to work with computers and designing different peices of artwork on the computer with programs like; Photoshop, Illustrator, etc...",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content7-7\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            },
+            "P": {
+              "color": "#000000",
+              "text-align": "left"
+            }
+          }
         },
         {
           "_inherit": "features3",
@@ -103,6 +104,12 @@
             "Theme"
           ],
           "_name": "features6",
+          "_styles": {
+            "H4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
           "_anchor": "features6-18",
           "_params": {
             "paddingTop": "1",
@@ -133,9 +140,10 @@
               "name": "desktop",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title1": "Game Designer",
@@ -149,9 +157,10 @@
               "name": "search",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title2": "Forensic Scientist",
@@ -165,9 +174,10 @@
               "name": "photo",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title3": "Graphic Designer",
@@ -181,9 +191,10 @@
               "name": "pencil",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#000000"
+              "color": "#000000",
+              "newWindow": false
             }
           },
           "title4": "Comic Book Writer",
@@ -217,13 +228,20 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "H4": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#d1dbbd"
+          },
+          "text": "<blockquote>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.<br><span style=\"font-size: 1.09rem; line-height: 1.5;\">– Elbert Hubbard</span></blockquote>"
         },
         {
           "_tags": [
@@ -232,9 +250,9 @@
           "_name": "content1",
           "_anchor": "content1-9",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
-            "bgColor": "#d1dbbd"
+            "bgColor": "#c6ccbb"
           },
           "text": "<b><i>Biography Continued:</i></b>"
         },
@@ -252,7 +270,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#d1dbbd"
+            "bgColor": "#c6ccbb"
           },
           "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
           "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
@@ -285,7 +303,6 @@
             "image": {
               "src": "@PROJECT_PATH@/assets/images/logo-1.png",
               "width": 128,
-              "active": true,
               "link": "",
               "alt": "",
               "title": "",
@@ -293,8 +310,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "photo",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "text1": "<strong>Address</strong><br>1710 sw 137 ct<br>Miami, FL &nbsp;33175",
@@ -774,18 +795,18 @@
           "_name": "form1",
           "_styles": {
             ".form-control-label": {
-              "color": "#232323"
+              "color": "#000000"
             }
           },
           "_anchor": "form1-m",
           "_params": {
-            "labelsColor": "#232323",
+            "labelsColor": "#000000",
             "paddingTop": 3,
             "paddingBottom": "3",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#d1dbbd",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,

@@ -88,7 +88,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#356293",
+            "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -113,7 +113,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#2969b0",
               "newWindow": false
             }
           },
@@ -130,7 +130,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#2969b0",
               "newWindow": false
             }
           },
@@ -147,7 +147,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#2969b0",
               "newWindow": false
             }
           },
@@ -164,7 +164,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#ffffff",
+              "color": "#2969b0",
               "newWindow": false
             }
           },
@@ -1098,18 +1098,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-1o",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#273c53"
           },
-          "text": "<p>I've been in the Tech. Porduction magnet at Miami Arts Studio since 7th grade.  I started out knowing absoulutly nothing about Digital Design and programs like Photoshop and Illustrator. Over the years I've spent in the magnet I've learned so many techniques and skills that will eventually help have a good career and future. Technology will play a huge impact in our lives , and I belive it's very important to be aware of all the different opportunities technology offers for your future. I plan to continue to learn more and more about digital design and new programs. So far I've learned a wide variety of skills ranging from animation and video to photo editing and illustration.</p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p>I've been in the Tech. Porduction magnet at Miami Arts Studio since 7th grade.  I started out knowing absoulutly nothing about Digital Design and programs like Photoshop and Illustrator. Over the years I've spent in the magnet I've learned so many techniques and skills that will eventually help have a good career and future. Technology will play a huge impact in our lives , and I belive it's very important to be aware of all the different opportunities technology offers for your future. I plan to continue to learn more and more about digital design and new programs. So far I've learned a wide variety of skills ranging from animation and video to photo editing and illustration.</p>"
         }
       ]
     }

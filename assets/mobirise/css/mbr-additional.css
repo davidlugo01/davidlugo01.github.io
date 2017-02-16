@@ -414,6 +414,10 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
 #features6-18 H4 {
   font-family: 'Open Sans', sans-serif;
   color: #000000;
@@ -700,9 +704,6 @@ h6,
 #msg-box5-1n P {
   color: #ffffff;
   text-align: left;
-}
-#content1-1o P {
-  color: #ffffff;
 }
 #contacts1-6 P {
   color: #ffffff;

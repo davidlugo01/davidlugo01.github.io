@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "David Lugo Portfolio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,9 +21,13 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 61,
+    "uniqCompNum": 63,
     "versionPublish": "3.11.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-128x96-1.png",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -66,6 +70,88 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"biography.html\" data-toolbar=\"-mbrBtnMove\">Continue</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Sneak Preview",
+          "meta": ""
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orchestra-poster-2000x1009-800x403.png",
+                "image": "@PROJECT_PATH@/assets/images/orchestra-poster-2000x1009.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/david-lugo-album-cover-side-1-2000x1182-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/david-lugo-album-cover-side-1-2000x1182.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mcdps-logo-2000x1182-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/mcdps-logo-2000x1182.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182.png",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-1p",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
           "_inherit": "features3",
           "_tags": [
             "Theme"
@@ -83,8 +169,8 @@
           },
           "_anchor": "features6-18",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -1052,7 +1138,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/gamedesignschoolscom-main-image-900x300-2000x666.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/gamedesignschoolscom-main-image_900x300-2000x666.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1090,26 +1176,8 @@
             }
           },
           "title": "Biography",
-          "text": "My name is David Lugo and I'm a 14 year old boy who lives in Miami, Florida. I love to work with computers and designing different peices of artwork on the computer with programs like; Photoshop, Illustrator, etc...",
+          "text": "My name is David Lugo and I'm a 14 year old boy who lives in Miami, Florida. I love to work with computers and designing different peices of artwork on the computer with programs like; Photoshop, Illustrator, etc...I've been in the Tech. Porduction magnet at Miami Arts Studio since 7th grade. I started out knowing absoulutly nothing about Digital Design and programs like Photoshop and Illustrator. Over the years I've spent in the magnet I've learned so many techniques and skills that will eventually help have a good career and future. Technology will play a huge impact in our lives , and I belive it's very important to be aware of all the different opportunities technology offers for your future. I plan to continue to learn more and more about digital design and new programs. So far I've learned a wide variety of skills ranging from animation and video to photo editing and illustration.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#content7-7\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "content1-1o",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#273c53"
-          },
-          "text": "<p>I've been in the Tech. Porduction magnet at Miami Arts Studio since 7th grade.  I started out knowing absoulutly nothing about Digital Design and programs like Photoshop and Illustrator. Over the years I've spent in the magnet I've learned so many techniques and skills that will eventually help have a good career and future. Technology will play a huge impact in our lives , and I belive it's very important to be aware of all the different opportunities technology offers for your future. I plan to continue to learn more and more about digital design and new programs. So far I've learned a wide variety of skills ranging from animation and video to photo editing and illustration.</p>"
         },
         {
           "_tags": [

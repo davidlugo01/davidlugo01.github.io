@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 65,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x96-1.png",
@@ -59,7 +59,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.6",
-            "overlayColor": "#092f58",
+            "overlayColor": "#c6726d",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
@@ -79,11 +79,36 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-1s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-1q",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColor": "#fff",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#631312",
             "showMeta": true
           },
           "title": "Sneak Preview",
@@ -123,10 +148,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mcdps-logo-2000x1182-800x472.png",
-                "image": "@PROJECT_PATH@/assets/images/mcdps-logo-2000x1182.png",
+                "thumb": "@PROJECT_PATH@/assets/images/david-lugo-star-wars-compilation-2000x1182-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/david-lugo-star-wars-compilation-2000x1182.png",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -136,13 +161,13 @@
                 "thumb": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182-800x472.png",
                 "image": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#FFFFFF",
+            "bgColor": "#631312",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -150,6 +175,26 @@
           "_anchor": "gallery1-1p",
           "articleLayout": false,
           "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#000000",
+            "showMeta": false
+          },
+          "title": "",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_inherit": "features3",
@@ -161,10 +206,10 @@
             "H4": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "P": {
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "features6-18",
@@ -174,7 +219,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#631312",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -199,7 +244,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2969b0",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
@@ -216,7 +261,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2969b0",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
@@ -233,7 +278,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2969b0",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
@@ -250,7 +295,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "#2969b0",
+              "color": "#ffffff",
               "newWindow": false
             }
           },
@@ -311,16 +356,17 @@
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#052446"
+            "overlayColor": "#c6726d"
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-1.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-128x96.jpg",
               "width": 128,
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false
+              "linkInNewWindow": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
@@ -329,7 +375,6 @@
               "family": "MobiriseIcons",
               "link": "",
               "size": 0,
-              "active": true,
               "color": "#ffffff"
             }
           },
@@ -370,13 +415,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#020b15"
+              "background": "#380b0a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#061d35!important"
+              "background": "#561110!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#072443"
+              "background": "#631312"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -395,7 +440,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-0",
           "_params": {
-            "bgColor": "#072443",
+            "bgColor": "#631312",
             "fontSize": "0.9",
             "fontName": {
               "name": "Open Sans",
@@ -406,7 +451,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -414,10 +459,12 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "@PROJECT_PATH@/assets/images/logo-170x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
@@ -469,13 +516,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#020b15"
+              "background": "#380b0a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#061d35!important"
+              "background": "#561110!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#072443"
+              "background": "#631312"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -494,7 +541,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-i",
           "_params": {
-            "bgColor": "#072443",
+            "bgColor": "#631312",
             "fontSize": "0.9",
             "fontName": {
               "name": "Open Sans",
@@ -505,7 +552,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -534,7 +581,11 @@
           "_name": "msg-box5",
           "_styles": {
             "P": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "msg-box5-1h",
@@ -545,7 +596,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "bgColor": "#c6726d",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -792,7 +843,7 @@
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#052446"
+            "overlayColor": "#c6726d"
           },
           "logo": {
             "image": {
@@ -857,13 +908,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#020b15"
+              "background": "#380b0a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#061d35!important"
+              "background": "#561110!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#072443"
+              "background": "#631312"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -882,14 +933,14 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-l",
           "_params": {
-            "bgColor": "#072443",
+            "bgColor": "#631312",
             "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -992,7 +1043,7 @@
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#052446"
+            "overlayColor": "#c6726d"
           },
           "logo": {
             "image": {
@@ -1059,13 +1110,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#020b15"
+              "background": "#380b0a"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#061d35!important"
+              "background": "#561110!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#072443"
+              "background": "#631312"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1084,7 +1135,7 @@
           "_name": "ext.menu",
           "_anchor": "ext_menu-1m",
           "_params": {
-            "bgColor": "#072443",
+            "bgColor": "#631312",
             "fontSize": "0.9",
             "fontName": {
               "name": "Open Sans",
@@ -1095,7 +1146,7 @@
             "fontHoverColor": "@primaryColor",
             "transparent": false,
             "sticky": true,
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "collapsed": true,
             "hideButtons": true
@@ -1147,7 +1198,7 @@
             "bgVideoRadio": false,
             "overlay": true,
             "overlayOpacity": "0.7",
-            "overlayColor": "#092f58",
+            "overlayColor": "#000000",
             "inverse": false,
             "showTitle": true,
             "showText": true,
@@ -1203,7 +1254,7 @@
             "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": "0.8",
-            "overlayColor": "#052446"
+            "overlayColor": "#c6726d"
           },
           "logo": {
             "image": {

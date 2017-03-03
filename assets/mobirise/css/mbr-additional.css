@@ -417,23 +417,14 @@ h6,
 #header3-1z .mbr-section-subtitle {
   text-align: center;
 }
-#msg-box4-1t H3 {
-  color: #000000;
-}
-#header3-21 .mbr-section-title,
-#header3-21 .mbr-section-subtitle {
-  text-align: center;
-}
 #header3-1y .mbr-section-title,
 #header3-1y .mbr-section-subtitle {
   text-align: center;
 }
-#social-buttons4-29 .mbr-section-title,
-#social-buttons4-29 .btn-social {
+#content8-2f .mbr-section-title,
+#content8-2f p {
+  text-align: right;
   color: #fff;
-}
-#social-buttons4-29 .mbr-section-title {
-  color: #ffffff;
 }
 #contacts3-27 SPAN {
   color: #ffffff;
@@ -656,6 +647,13 @@ h6,
 }
 #features6-1v P {
   color: #000000;
+}
+#social-buttons4-2a .mbr-section-title,
+#social-buttons4-2a .btn-social {
+  color: #fff;
+}
+#social-buttons4-2a .mbr-section-title {
+  color: #ffffff;
 }
 #contacts3-27 SPAN {
   color: #ffffff;

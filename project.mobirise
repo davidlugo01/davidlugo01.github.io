@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 82,
+    "uniqCompNum": 88,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x96-1.png",
@@ -81,82 +81,7 @@
           "_name": "header3",
           "_anchor": "header3-1z",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#000000",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
-        },
-        {
-          "_inherit": "msg-box5",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box4",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "msg-box4-1t",
-          "_params": {
-            "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Video",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-21",
-          "_params": {
-            "paddingTop": 1,
             "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true
@@ -198,8 +123,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/orchestra-poster-2000x1009-800x403.png",
-                "image": "@PROJECT_PATH@/assets/images/orchestra-poster-2000x1009.png",
+                "thumb": "@PROJECT_PATH@/assets/images/david-lugo-star-wars-compilation-2000x1182-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/david-lugo-star-wars-compilation-2000x1182.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -218,8 +143,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/david-lugo-star-wars-compilation-2000x1182-800x472.png",
-                "image": "@PROJECT_PATH@/assets/images/david-lugo-star-wars-compilation-2000x1182.png",
+                "thumb": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182.png",
                 "caption": "Type caption here",
                 "active": true
               },
@@ -228,8 +153,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182-800x472.png",
-                "image": "@PROJECT_PATH@/assets/images/david-lugo-cd-lp-2000x1182.png",
+                "thumb": "@PROJECT_PATH@/assets/images/orchestra-poster-2000x1009-800x403.png",
+                "image": "@PROJECT_PATH@/assets/images/orchestra-poster-2000x1009.png",
                 "caption": "Type caption here",
                 "active": false
               }
@@ -237,44 +162,50 @@
             "spacing": "1",
             "showText": false,
             "filter": false,
-            "bgColor": "#ffffff",
+            "bgColor": "#FFFFFF",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery1-1p",
+          "_anchor": "gallery1-2b",
           "articleLayout": false,
           "allItem": "All"
         },
         {
-          "_inherit": "social-buttons2",
+          "_inherit": "content5",
           "_styles": {
-            ".mbr-section-title, .btn-social": {
+            ".mbr-section-title, p": {
+              "text-align": "right",
               "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-29",
+          "_name": "content8",
+          "_anchor": "content8-2f",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#000000",
-            "bgColorRadio": true,
-            "overlay": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/TV14AHsqbeQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "bgVideoRadio": true,
+            "overlay": true,
             "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayColor": "#000",
+            "showTitle": false,
+            "showCaption": false
           },
-          "text": "FOLLOW US",
-          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCKA_xkfxd310OjT-ije6NlA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
+          "title": "BACKGROUND VIDEO",
+          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
           "_tags": [
@@ -706,8 +637,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hulk-2000x1182-800x472.png",
-                "image": "@PROJECT_PATH@/assets/images/hulk-2000x1182.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hulk-1-2000x1182-800x472.png",
+                "image": "@PROJECT_PATH@/assets/images/hulk-1-2000x1182.png",
                 "caption": "Hulk Fist",
                 "active": false
               },
@@ -796,10 +727,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/inside-2000x1009-800x403.png",
-                "image": "@PROJECT_PATH@/assets/images/inside-2000x1009.png",
+                "thumb": "@PROJECT_PATH@/assets/images/inside-1-2000x1009-800x403.png",
+                "image": "@PROJECT_PATH@/assets/images/inside-1-2000x1009.png",
                 "caption": "Orchestra POP V Showbill",
-                "active": true
+                "active": false
               },
               {
                 "tags": "9th Grade",
@@ -826,10 +757,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/outside-2000x1225-800x490.png",
-                "image": "@PROJECT_PATH@/assets/images/outside-2000x1225.png",
+                "thumb": "@PROJECT_PATH@/assets/images/outside-1-2000x1225-800x490.png",
+                "image": "@PROJECT_PATH@/assets/images/outside-1-2000x1225.png",
                 "caption": "Orchestra POP V Showbill",
-                "active": false
+                "active": true
               }
             ],
             "spacing": 1,
@@ -1271,6 +1202,36 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "FOLLOW ME",
+          "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCKA_xkfxd310OjT-ije6NlA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
         },
         {
           "_tags": [

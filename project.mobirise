@@ -168,7 +168,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "showMeta": false
           },
           "title": "",
@@ -224,7 +224,7 @@
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#000000",
             "showMeta": false
           },
           "title": "",

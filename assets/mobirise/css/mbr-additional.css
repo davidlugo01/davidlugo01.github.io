@@ -413,12 +413,15 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header3-1z .mbr-section-title,
-#header3-1z .mbr-section-subtitle {
-  text-align: center;
-}
 #header3-1y .mbr-section-title,
 #header3-1y .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1y H3 {
+  color: #ffffff;
+}
+#header3-2s .mbr-section-title,
+#header3-2s .mbr-section-subtitle {
   text-align: center;
 }
 #content8-2f .mbr-section-title,
@@ -426,14 +429,21 @@ h6,
   text-align: right;
   color: #fff;
 }
-#social-buttons4-2j .mbr-section-title,
-#social-buttons4-2j .btn-social {
+#header3-2t .mbr-section-title,
+#header3-2t .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-2q .mbr-section-title,
+#social-buttons4-2q .btn-social {
   color: #fff;
 }
-#social-buttons4-2j .mbr-section-title {
+#social-buttons4-2q .mbr-section-title {
   color: #ffffff;
 }
 #contacts3-27 SPAN {
+  color: #ffffff;
+}
+#contacts3-27 STRONG {
   color: #ffffff;
 }
 #footer1-28 P {
@@ -502,6 +512,10 @@ h6,
   color: #c0a375!important;
 }
 
+#msg-box8-2n .mbr-section-title,
+#msg-box8-2n p {
+  color: #fff;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -564,21 +578,17 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-1h P {
-  text-align: left;
-  color: #000000;
+#header3-2u .mbr-section-title,
+#header3-2u .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-1h H3 {
-  color: #000000;
-}
-#social-buttons4-2k .mbr-section-title,
-#social-buttons4-2k .btn-social {
-  color: #fff;
-}
-#social-buttons4-2k .mbr-section-title {
+#header3-2u H3 {
   color: #ffffff;
 }
 #contacts3-27 SPAN {
+  color: #ffffff;
+}
+#contacts3-27 STRONG {
   color: #ffffff;
 }
 #footer1-28 P {
@@ -649,17 +659,17 @@ h6,
   color: #c0a375!important;
 }
 #header5-2i .mbr-section-title {
-  color: #000;
+  color: #ffffff;
 }
 #header5-2i .mbr-section-lead {
-  color: #000000;
+  color: #ffffff;
 }
 #features6-1v H4 {
   font-family: 'Open Sans', sans-serif;
   color: #000000;
 }
 #features6-1v P {
-  color: #000000;
+  color: #ffffff;
 }
 #social-buttons4-2a .mbr-section-title,
 #social-buttons4-2a .btn-social {

@@ -634,12 +634,11 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box5-1n H3 {
-  color: #000000;
+#header5-2i .mbr-section-title {
+  color: #000;
 }
-#msg-box5-1n P {
+#header5-2i .mbr-section-lead {
   color: #000000;
-  text-align: left;
 }
 #features6-1v H4 {
   font-family: 'Open Sans', sans-serif;

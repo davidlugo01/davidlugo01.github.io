@@ -1069,43 +1069,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#000000"
-            },
-            ".mbr-section-title": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "header1-2h",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Biography",
-          "text": "My name is David Lugo and I'm a 14 year old boy who lives in Miami, Florida. I love to work with computers and designing different peices of artwork on the computer with programs like; Photoshop, Illustrator, etc...I've been in the Tech. Porduction magnet at Miami Arts Studio since 7th grade. I started out knowing absoulutly nothing about Digital Design and programs like Photoshop and Illustrator. Over the years I've spent in the magnet I've learned so many techniques and skills that will eventually help have a good career and future. Technology will play a huge impact in our lives , and I belive it's very important to be aware of all the different opportunities technology offers for your future. I plan to continue to learn more and more about digital design and new programs. So far I've learned a wide variety of skills ranging from animation and video to photo editing and illustration.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {

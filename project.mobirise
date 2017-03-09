@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 89,
+    "uniqCompNum": 90,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x96-1.png",
@@ -760,6 +760,66 @@
                 "thumb": "@PROJECT_PATH@/assets/images/outside-1-2000x1225-800x490.png",
                 "image": "@PROJECT_PATH@/assets/images/outside-1-2000x1225.png",
                 "caption": "Orchestra POP V Showbill",
+                "active": false
+              },
+              {
+                "tags": "Master Peice Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rough-draft-1-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rough-draft-1-2000x1438.jpg",
+                "caption": "Master Peice 1",
+                "active": false
+              },
+              {
+                "tags": "Master Peice Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rough-draft-2-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rough-draft-2-2000x1438.jpg",
+                "caption": "Master Peice 2",
+                "active": false
+              },
+              {
+                "tags": "Master Peice Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rough-draft-3-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rough-draft-3-2000x1438.jpg",
+                "caption": "Master Peice 3",
+                "active": false
+              },
+              {
+                "tags": "Master Peice Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rough-draft-5-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rough-draft-5-2000x1438.jpg",
+                "caption": "Master Peice 4",
+                "active": false
+              },
+              {
+                "tags": "Master Peice Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rough-draft-6-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rough-draft-6-2000x1438.jpg",
+                "caption": "Master Peice 5",
+                "active": false
+              },
+              {
+                "tags": "Master Peice Reproduction",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rough-draft-7-2000x1438-800x575.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rough-draft-7-2000x1438.jpg",
+                "caption": "Master Peice 6",
                 "active": true
               }
             ],
@@ -1009,13 +1069,50 @@
           "_tags": [
             "Theme"
           ],
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-lead": {
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header1-2h",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Biography",
+          "text": "My name is David Lugo and I'm a 14 year old boy who lives in Miami, Florida. I love to work with computers and designing different peices of artwork on the computer with programs like; Photoshop, Illustrator, etc...I've been in the Tech. Porduction magnet at Miami Arts Studio since 7th grade. I started out knowing absoulutly nothing about Digital Design and programs like Photoshop and Illustrator. Over the years I've spent in the magnet I've learned so many techniques and skills that will eventually help have a good career and future. Technology will play a huge impact in our lives , and I belive it's very important to be aware of all the different opportunities technology offers for your future. I plan to continue to learn more and more about digital design and new programs. So far I've learned a wide variety of skills ranging from animation and video to photo editing and illustration.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
           "_name": "msg-box5",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             "P": {
-              "color": "#ffffff",
+              "color": "#000000",
               "text-align": "left"
             }
           },
@@ -1026,7 +1123,7 @@
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/781816-black-background-ghosts-pac-man-retro-games-video-games-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/portfolio-pic-2000x1309.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": false,
             "bgVideo": {

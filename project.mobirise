@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "photoshop.html",
+    "currentPage": "biography.html",
     "name": "David Lugo Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1208,7 +1208,7 @@
             "H4": {
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "P": {
               "color": "#ffffff"

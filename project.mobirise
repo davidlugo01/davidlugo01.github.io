@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "illustrator.html",
     "name": "David Lugo Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -1474,7 +1474,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x11253.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x11250.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,

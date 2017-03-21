@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 113,
+    "uniqCompNum": 114,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x96-1.png",
@@ -50,7 +50,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/portfolio%20pic-2000x1309.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/portfolio-pic-2000x1309.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -188,8 +188,8 @@
           "_name": "content8",
           "_anchor": "content8-2f",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
@@ -198,7 +198,7 @@
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/TV14AHsqbeQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/i7EYWG64Uzs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
             "overlay": true,
@@ -1267,7 +1267,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo-170x128.jpg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1299,7 +1299,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/portfolio%20pic-2000x1309.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/portfolio-pic-2000x1309.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1336,7 +1336,7 @@
           },
           "_anchor": "features6-1v",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "parallax": true,
@@ -1474,7 +1474,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x11251.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -1491,6 +1491,9 @@
           "_name": "contacts3",
           "_styles": {
             "SPAN": {
+              "color": "#ffffff"
+            },
+            "STRONG": {
               "color": "#ffffff"
             }
           },
@@ -1555,9 +1558,9 @@
             }
           },
           "text4": "dlugo@miamiartsstudio.com",
-          "title1": "Categories",
-          "text5": "<li><a href=\"#\" class=\"text-white\">Introduction/Biography</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"#\" class=\"text-white\">Applications</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"#\" class=\"text-white\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"#\" class=\"text-white\">Refrences</a><a class=\"text-white\" href=\"#\"></a></li><br>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br>Email: dlugo@miamiartsstudio.com<br>Phone: 305-333-9719<br><br><br><strong>Address</strong><br>1710 sw 137 ct<br>Miami, FL 33175",
           "form": {
             "title": "MESSAGE",
             "action": "dlugo@miamiartsstudio.com",
@@ -1722,6 +1725,9 @@
           "_styles": {
             "SPAN": {
               "color": "#ffffff"
+            },
+            "STRONG": {
+              "color": "#ffffff"
             }
           },
           "_anchor": "contacts3-27",
@@ -1785,9 +1791,9 @@
             }
           },
           "text4": "dlugo@miamiartsstudio.com",
-          "title1": "Categories",
-          "text5": "<li><a href=\"#\" class=\"text-white\">Introduction/Biography</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"#\" class=\"text-white\">Applications</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"#\" class=\"text-white\">Credentials</a><a class=\"text-white\" href=\"#\"></a></li><li><a href=\"#\" class=\"text-white\">Refrences</a><a class=\"text-white\" href=\"#\"></a></li><br>",
-          "text6": "<strong>Contacts</strong><br>Email: support@mobirise.com<br>Phone: +1 (0) 000 0000 001<br>Fax: +1 (0) 000 0000 002<br><br><br><strong>Address</strong><br>1234 Street Name<br>City, AA 99999",
+          "title1": "",
+          "text5": "",
+          "text6": "<strong>Contacts</strong><br>Email: dlugo@miamiartsstudio.com<br>Phone: 305-333-9719<br><br><br><strong>Address</strong><br>1710 sw 137 ct<br>Miami, FL 33175",
           "form": {
             "title": "MESSAGE",
             "action": "dlugo@miamiartsstudio.com",

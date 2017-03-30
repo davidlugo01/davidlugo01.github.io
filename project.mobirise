@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "illustrator.html",
+    "currentPage": "index.html",
     "name": "David Lugo Portfolio",
     "theme": {
       "name": "mobirise3",
@@ -58,7 +58,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
@@ -67,7 +67,7 @@
           },
           "title": "David Lugo",
           "text": "One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.<br>– Elbert Hubbard<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"biography.html\" data-toolbar=\"-mbrBtnMove\">Continue</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"biography.html\" data-toolbar=\"-mbrBtnMove\">Biography</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning-outline btn-warning\" href=\"https://www.youtube.com/watch?v=h-eh35k_TBQ\" data-toolbar=\"-mbrBtnMove\">Introduction Video</a>"
         },
         {
           "_styles": {
@@ -84,12 +84,12 @@
           "_name": "header3",
           "_anchor": "header3-1y",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "0",
             "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true
           },
-          "title": "Sneak Preview",
+          "title": "Some of my Work",
           "meta": ""
         },
         {
@@ -164,62 +164,6 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-2s",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#000000",
-            "showMeta": false
-          },
-          "title": "",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_inherit": "content5",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "text-align": "right",
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content8",
-          "_anchor": "content8-2f",
-          "_params": {
-            "paddingTop": "5",
-            "paddingBottom": "5",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/i7EYWG64Uzs?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "showTitle": false,
-            "showCaption": false
-          },
-          "title": "BACKGROUND VIDEO",
-          "caption": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
           "_anchor": "header3-2t",
           "_params": {
             "paddingTop": "0",
@@ -250,12 +194,12 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000"
           },
           "text": "FOLLOW ME",
           "icons": "   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCKA_xkfxd310OjT-ije6NlA\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a>       "
@@ -1474,7 +1418,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x11250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1125.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,

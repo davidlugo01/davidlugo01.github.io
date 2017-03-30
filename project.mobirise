@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 114,
+    "uniqCompNum": 115,
     "versionPublish": "3.11.1",
     "path": "@PROJECT_PATH@",
     "favicon": "@PROJECT_PATH@/assets/images/logo-128x96-1.png",
@@ -73,6 +73,26 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-36",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
             "H3": {
               "color": "#ffffff"
@@ -84,7 +104,7 @@
           "_name": "header3",
           "_anchor": "header3-1y",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#000000",
             "showMeta": true

@@ -73,26 +73,6 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-36",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "",
-          "meta": ""
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
             },
             "H3": {
               "color": "#ffffff"
@@ -126,10 +106,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/12-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/12-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-3-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
@@ -146,8 +126,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-2-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-2-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -159,7 +139,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/13-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/13-2000x2000.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "2",
@@ -214,7 +194,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1330.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1334.jpg",
             "bgColor": "#000000",
             "bgColorRadio": false,
             "overlay": true,
@@ -741,6 +721,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/11-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/11-2000x2000.jpg",
                 "caption": "POP V Concert Showbill Inside",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/16-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/16-2000x2000.jpg",
+                "caption": "Gun Violence Awareness",
                 "active": true
               }
             ],
@@ -1722,7 +1712,7 @@
             "paddingBottom": "1",
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1730,7 +1720,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.6",
+            "overlayOpacity": "0.3",
             "overlayColor": "#000000",
             "showTitle": true,
             "showText": true,
@@ -1750,42 +1740,12 @@
             "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/1-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/1-1-2000x2000.jpg",
-                "caption": "MAS Banner 1",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/3-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/3-2000x2000.jpg",
-                "caption": "MAS Banner 2",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/4-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/4-1-2000x2000.jpg",
-                "caption": "MAS Banner 3",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-3-2000x2000.jpg",
                 "caption": "Aging Face",
                 "active": false
               },
@@ -1794,8 +1754,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/5-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/5-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-3-2000x2000.jpg",
                 "caption": "Youth Fair Competition DVD Cover",
                 "active": false
               },
@@ -1804,10 +1764,30 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6-1-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6-1-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-3-2000x2000.jpg",
                 "caption": "Symmetrical Tattoo",
                 "active": true
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/7-2-2000x2000.jpg",
+                "caption": "Symmetrical Tattoo",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-3-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-3-2000x2000.jpg",
+                "caption": "Aging Face",
+                "active": false
               }
             ],
             "spacing": "2",
